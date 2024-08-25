@@ -65,20 +65,20 @@ SA:MP最初是[罪恶都市](https://gta.fandom.com/wiki/Grand_Theft_Auto:_Vice_
 ### 官方提供的游戏模式示例
 | 游戏模式 | 描述 |
 | :--| :----- |
-| [GRAND LARCENY](https://github.com/Li-ght/SA-MP-Official-Game-Mode/blob/main/grandlarc.pwn) | 地图横跨San Andreas的SA-MP 0.3 版本的自由游戏模式，拥有更多的一些脚本示例 |
-| [LVDM (aka Moneygrub)](https://github.com/Li-ght/SA-MP-Official-Game-Mode/blob/main/lvdm.pwn) | 以任何您认为合适的方式获得最多金钱的玩家即可赢得该游戏模式。由于没有任何 “真正 ”的目标，因此是一种自由游戏模式，在许多服务器中都很受欢迎。 |
-| [San Fierro TDM](https://github.com/Li-ght/SA-MP-Official-Game-Mode/blob/main/sftdm.pwn) | 在San Fierro进行的团队死亡竞赛中，您必须与您的队伍团结一致，成为得分最高的玩家. |
-| [Rivershell](https://github.com/Li-ght/SA-MP-Official-Game-Mode/blob/main/rivershell.pwn) | 一种基于在水面上游玩的夺旗模式(CTF, Capture The Flag)，在该模式中，您的团队必须在对方占领您团队的基地之前，从对方基地夺取一艘缓慢移动的船，从而赢得胜利。在 SA-MP 0.2 中，Rivershell 2 模式可用，但没有源代码. |
-| [Local Yokel SE](https://github.com/Li-ght/SA-MP-Official-Game-Mode/blob/main/lyse.pwn) | 与 Rivershell 相同，但以陆上跑车为基础（SE 代表运动版） |
-| [Cops 'n' Gangs](https://github.com/Li-ght/SA-MP-Official-Game-Mode/blob/main/cng.pwn) | 另一种夺旗模式(CTF, Capture The Flag)，这次是在Los Santos警察局和当地帮派之间进行，目标车辆是一辆缓慢行驶的面包车. |
-| [Area 51](https://github.com/Li-ght/SA-MP-Official-Game-Mode/blob/main/area51.pwn) | 这是一种进攻游戏模式，攻击者必须通过跳伞闯入 69 区，而军方和科学家则进行防守。在该游戏模式中，69 区被称为 51 区（其真实原型位于内华达州）. |
-| [Freighter](https://github.com/Li-ght/SA-MP-Official-Game-Mode/blob/main/freighter.pwn) | 51 区模式的水上版本，三合会必须使用快艇和直升机闯入敌对帮派（岘港男孩）的货运船. |
-| [Manhunt-LV](https://github.com/Li-ght/SA-MP-Official-Game-Mode/blob/main/manhunt-lv.pwn) | 其中一名玩家被选为 “被狩猎对象”，其他人必须追上并杀死他。杀死 “被狩猎对象 ”的人自己也会成为 “被狩猎对象”. |
-| [LS Parachute](https://github.com/Li-ght/SA-MP-Official-Game-Mode/blob/main/ls-parachute.pwn) | 一个有趣的游戏模式，除了从高楼跳伞外没有其他目标--受到制作游戏视频的人的欢迎 |
-| [Minigun Madness](https://github.com/Li-ght/SA-MP-Official-Game-Mode/blob/main/minigunmadness.pwn) | 这是另一种有趣的模式，让玩家从标准的基于目标的游戏模式中解脱出来。所有玩家都被关在一个小院子里进行自由混战，只能用加特林防卫。 |
-| [Monster](https://github.com/Li-ght/SA-MP-Official-Game-Mode/blob/main/monster.pwn) | 一种自由模式，每个人都会在沙漠简易机场出生，只有怪物卡车(monster)可以作为交通工具。在私人 Beta 测试期间很受欢迎，以展示游戏的稳定性和同步性 |
-| [Sniper Madness](https://github.com/Li-ght/SA-MP-Official-Game-Mode/blob/main/sniper.pwn) | 每个人都有一把狙击步枪互相击杀的游戏模式。是对新的 SA-MP 0.2 的狙击步枪支持的某种演示. |
-| [RC Barnstorm](https://github.com/Li-ght/SA-MP-Official-Game-Mode/blob/main/barron.pwn) | 每个人都要控制一辆遥控Baron的游戏模式。是对新的 SA-MP 0.2 版遥控车支持的某种演示. |
+| [GRAND LARCENY](https://github.com/XiaoNiaoa/SA-MP-Official-Game-Mode/blob/main/grandlarc.pwn) | 地图横跨San Andreas的SA-MP 0.3 版本的自由游戏模式，拥有更多的一些脚本示例 |
+| [LVDM (aka Moneygrub)](https://github.com/XiaoNiaoa/SA-MP-Official-Game-Mode/blob/main/lvdm.pwn) | 以任何您认为合适的方式获得最多金钱的玩家即可赢得该游戏模式。由于没有任何 “真正 ”的目标，因此是一种自由游戏模式，在许多服务器中都很受欢迎。 |
+| [San Fierro TDM](https://github.com/XiaoNiaoa/SA-MP-Official-Game-Mode/blob/main/sftdm.pwn) | 在San Fierro进行的团队死亡竞赛中，您必须与您的队伍团结一致，成为得分最高的玩家. |
+| [Rivershell](https://github.com/XiaoNiaoa/SA-MP-Official-Game-Mode/blob/main/rivershell.pwn) | 一种基于在水面上游玩的夺旗模式(CTF, Capture The Flag)，在该模式中，您的团队必须在对方占领您团队的基地之前，从对方基地夺取一艘缓慢移动的船，从而赢得胜利。在 SA-MP 0.2 中，Rivershell 2 模式可用，但没有源代码. |
+| [Local Yokel SE](https://github.com/XiaoNiaoa/SA-MP-Official-Game-Mode/blob/main/lyse.pwn) | 与 Rivershell 相同，但以陆上跑车为基础（SE 代表运动版） |
+| [Cops 'n' Gangs](https://github.com/XiaoNiaoa/SA-MP-Official-Game-Mode/blob/main/cng.pwn) | 另一种夺旗模式(CTF, Capture The Flag)，这次是在Los Santos警察局和当地帮派之间进行，目标车辆是一辆缓慢行驶的面包车. |
+| [Area 51](https://github.com/XiaoNiaoa/SA-MP-Official-Game-Mode/blob/main/area51.pwn) | 这是一种进攻游戏模式，攻击者必须通过跳伞闯入 69 区，而军方和科学家则进行防守。在该游戏模式中，69 区被称为 51 区（其真实原型位于内华达州）. |
+| [Freighter](https://github.com/XiaoNiaoa/SA-MP-Official-Game-Mode/blob/main/freighter.pwn) | 51 区模式的水上版本，三合会必须使用快艇和直升机闯入敌对帮派（岘港男孩）的货运船. |
+| [Manhunt-LV](https://github.com/XiaoNiaoa/SA-MP-Official-Game-Mode/blob/main/manhunt-lv.pwn) | 其中一名玩家被选为 “被狩猎对象”，其他人必须追上并杀死他。杀死 “被狩猎对象 ”的人自己也会成为 “被狩猎对象”. |
+| [LS Parachute](https://github.com/XiaoNiaoa/SA-MP-Official-Game-Mode/blob/main/ls-parachute.pwn) | 一个有趣的游戏模式，除了从高楼跳伞外没有其他目标--受到制作游戏视频的人的欢迎 |
+| [Minigun Madness](https://github.com/XiaoNiaoa/SA-MP-Official-Game-Mode/blob/main/minigunmadness.pwn) | 这是另一种有趣的模式，让玩家从标准的基于目标的游戏模式中解脱出来。所有玩家都被关在一个小院子里进行自由混战，只能用加特林防卫。 |
+| [Monster](https://github.com/XiaoNiaoa/SA-MP-Official-Game-Mode/blob/main/monster.pwn) | 一种自由模式，每个人都会在沙漠简易机场出生，只有怪物卡车(monster)可以作为交通工具。在私人 Beta 测试期间很受欢迎，以展示游戏的稳定性和同步性 |
+| [Sniper Madness](https://github.com/XiaoNiaoa/SA-MP-Official-Game-Mode/blob/main/sniper.pwn) | 每个人都有一把狙击步枪互相击杀的游戏模式。是对新的 SA-MP 0.2 的狙击步枪支持的某种演示. |
+| [RC Barnstorm](https://github.com/XiaoNiaoa/SA-MP-Official-Game-Mode/blob/main/barron.pwn) | 每个人都要控制一辆遥控Baron的游戏模式。是对新的 SA-MP 0.2 版遥控车支持的某种演示. |
 
 
 # open.mp(Open Multiplayer)
