@@ -210,7 +210,7 @@ VS Code的使用教程点击[此处](https://tieba.baidu.com/p/8035593934)查看
 - [删除它们] 如果你服务器正在使用以下这些插件/库，现在你可以删除他们了，因为open.mp具备这些功能
   - [YSF](https://github.com/IS4Code/YSF/releases) 它的许多功能现在已经在 open.mp 中实现，详情见[此处](https://github.com/openmultiplayer/open.mp/issues/189)
   - [sa-mp-fixes](https://github.com/pawn-lang/sa-mp-fixes) 对SA:MP服务器的大量错误进行了优化修复，即插即用
-  - [samp-precise-timers](https://github.com/bmisiak/samp-precise-timers/releases) 改善SA:MP的计时器，使其精准，在SA:MP中计时器每秒会有100毫秒左右甚至更多的偏差，比如你设置10秒后发送一条消息，SA:MP可能会在11、12、13秒后才发送
+  - [samp-precise-timers](https://github.com/bmisiak/samp-precise-timers/releases) 改善SA:MP的计时器，使其精准，在SA:MP中计时器每秒会有150毫秒左右甚至更多的偏差，比如你制作了一个60秒的计时器，SA:MP会在70秒后才执行该计时器
 - [更新它们] 其它常用库/插件的更新，现在常用且流行的库/插件很多都已更新，认同并遵循社区对于开发所树立的代码规范，请不要再埋怨，跟上脚步
   - 这些库主要更新的内容除了更新、修复、优化它们本身的内容以外，还做了[标签矫正](https://github.com/openmultiplayer/omp-stdlib/blob/master/documentation/readme-expert.md#more-tags)，[const矫正](https://github.com/openmultiplayer/omp-stdlib/blob/master/documentation/readme-expert.md#const-correctness)，函数变化等等，比如大家很熟悉的[streamer插件](https://github.com/samp-incognito/samp-streamer-plugin)
   - 以防有人找不到下载地址，大家可以直接在Github上搜索，或者前往[open.mp Awesome](https://www.open.mp/docs/awesome)，open.mp官网给大家提供了一系列值得推荐的库/插件/工具等等的列表，本人不建议大家继续使用一些过时且偏门的插件和库，请自行做取舍
